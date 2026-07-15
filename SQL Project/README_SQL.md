@@ -43,4 +43,4 @@ A couple of things worth flagging if you're reading through the code:
 - Would be nice to wrap the manager numeric performance mapping (`Exceeds` → 4, etc.) into a reusable view instead of a repeated `CASE` expression.
 - Could eventually hook this up to a BI tool (Metabase/Looker Studio) for a live dashboard instead of static queries.
 
-Feel free to fork this if you're learning SQL and want a real (if slightly messy) dataset to practice cleaning and querying against.
+Feel free to try this out..
